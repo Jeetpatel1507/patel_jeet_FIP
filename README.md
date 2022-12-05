@@ -15,7 +15,7 @@ download the files and oprn index.html or index_mobile.html for mobile experienc
 
 ## Contributing
 
-Solo pproject managed and made by  Jeet Patel
+Solo project managed and made by  Jeet Patel
 
 ## History
 
