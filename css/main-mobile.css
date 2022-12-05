@@ -67,7 +67,7 @@ you work on and the intended audience, we may go as low as 320px */
 }
 
 #header-con {
-	background-color: #ddd;
+	background-color: #97d9e9;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
@@ -77,8 +77,57 @@ you work on and the intended audience, we may go as low as 320px */
 }
 
 #mobile-nav {
-	grid-column: 4/-1;
+	grid-column: 3/-1;
 }
+
+#mobile-nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 185px;
+	background-color: #CCEBF3;
+}
+  
+li a {
+	display: block;
+	color: #0578B7;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+.herotext{
+	padding-top: 50px;
+	font-size:large;
+	text-align: center;
+	color: #fff; 
+}
+
+.herotext a{
+	color: #CCEBF3;
+}
+
+.bp{
+	color: #aaa;
+	font-size: x-large;
+}
+
+p{
+	color: black;
+	padding-top: 20px;
+	font-size: medium;
+}
+
+.brandl{
+	padding-top: 100px;
+	grid-column: 1/-1;
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+
+
+
+
 
 .burger {
 	height: 16px;
@@ -90,8 +139,7 @@ you work on and the intended audience, we may go as low as 320px */
 /* index page */
 
 #hero-con {
-	background-color: #aaaaaa;
-	background: url("https://via.placeholder.com/428x458");
+	background: url("../images/dellg15-mobile.jpg");
 	height: 458px;
 }
 
@@ -103,7 +151,6 @@ you work on and the intended audience, we may go as low as 320px */
 }
 
 #image-slider-con {
-	background-color: #dddddd;
 	/* Remove as content will dictate height */
 	height: 640px;
 	position: relative;
@@ -148,9 +195,10 @@ you work on and the intended audience, we may go as low as 320px */
 #about-us-text {
 	grid-column: 1/-1;
 	/* Remove as content will dictate height */
+	background: url(../images/otherbrands-mobile.jpg) no-repeat ;
 	height: 580px;
-	margin-top: 70px;
-	margin-bottom: 40px;
+	margin-top: -26px;
+	margin-bottom: -17px;
 }
 
 .about-us-photo {
