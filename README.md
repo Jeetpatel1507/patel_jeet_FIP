@@ -29,7 +29,7 @@ all the professors that helped me learn and made me capable of a making a websit
 
 Me: jeet patel
 
-google for code errors solving, html validation and more importantly for ideas 
+google for code errors solving, html validation and more importantly for ideas! 
 
 ## License
 
