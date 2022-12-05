@@ -29,7 +29,7 @@ img {
 
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 12px;
+	/* font-size: 12px; */
 }
 
 /* Remove underlines from links */
@@ -57,7 +57,6 @@ you work on and the intended audience */
 	width: 1920px;
 }
 
-/* this is our grid based off of our XD file */
 .grid-con {
 	display: grid;
 	grid-template-columns: repeat(12, 122px);
@@ -66,29 +65,192 @@ you work on and the intended audience */
 	padding-right: 140px;
 }
 
+
+
 #header-con {
-	background-color: #ddd;
+	background-color: #97D9E9;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 #header-box1 {
-	grid-column: 1/3;
-	/* Remove as content will dictate height */
+	grid-column: 1/2;
 	height: 80px;
+	width: 80px;
 }
+
+/* my stuff */
+
 
 #main-nav {
-	grid-column: 3/11;
-	/* Remove as content will dictate height */
+	grid-column: 2/11;
+	float: left;
+	text-align: center;
 	height: 80px;
+	font-size: large;
 }
 
-#header-box2 {
-	grid-column: 11/-1;
-	/* Remove as content will dictate height */
-	height: 80px;
+#main-nav ul {
+	margin-top: 30px;
+	margin-left: 30px;
+	padding:0;
+ }
+
+#main-nav li {
+	display:inline;
+	margin: 30px;
 }
+
+#main-nav li a:hover {
+	padding-bottom: 8px;
+	border-bottom: 3px solid #201E5A;
+  }
+
+a {
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+
+#main-nav li a.active {
+	padding-bottom: 8px;
+	border-bottom: 3px solid #201E5A;
+ }
+
+ #main-nav li a {
+	color: #0578B7;
+  }
+
+body{
+	background-color: #fff;
+}
+
+.hero-box{
+	background-color: #fff;
+}
+
+#DOTD {
+	font-size:50px;
+	text-align: center;
+	color: #4a5e5f;
+}
+
+#DOTDS {
+	font-size:30px;
+	text-align: center;
+}
+
+.DOTDP{
+	font-size: large;
+	padding-bottom: 15px;
+}
+
+.BPH{
+	font-size: 30px;
+	text-align: center;
+}
+
+.BPP{
+	padding-bottom: 15px;
+	font-size: large;
+}
+
+
+.effectg {
+	transition: transform .2s;
+  }
+
+
+.effect  {
+	padding: 20px;
+	transition: transform .2s;
+  }
+  
+.effect:hover , .effect2:hover , .effectg:hover{
+	-ms-transform: scale(1.5);
+	-webkit-transform: scale(1.5);
+	transform: scale(1.05); 
+}
+
+.h2stay{
+	font-size: 30px;
+	color: #4a5e5f;
+	text-align: center;
+}
+
+.sub{
+	font-size: xx-large;
+	color: #0db4d7;
+	text-align: center;
+}
+
+.sublist{
+	font-size: x-large;
+	text-decoration: none;
+	list-style-type:square;
+	color: #4a5e5f;
+}
+
+.sublist li{
+	padding: 7px;
+}
+
+
+
+.form{
+	background-color: #97d9e9;
+}
+
+.contactF{
+	padding: 20px;
+}
+
+.pad{
+	padding: 10px;
+}
+
+
+input[type=text]{
+	width:350px;
+	padding:15px;
+	border-radius:15px;
+	border:0;
+	box-shadow:4px 4px 10px #97d9e9;
+  }
+
+
+textarea {
+	width:650px;
+	resize: vertical;
+	padding:15px;
+	border-radius:15px;
+	border:0;
+	box-shadow:4px 4px 10px #97d9e9;
+	height:150px;
+    max-height: 511px;
+  }
+
+button {
+	appearance:none;
+	-webkit-appearance:none;
+	padding:10px;
+	border:none;
+	background-color:#3F51B5;
+	color:#fff;
+	font-weight:600;
+	border-radius:5px;
+	width:250px;
+	margin-left: 433px;
+
+  }
+
+
+
+
+
+
+
+/* my stuff  ends here */
+
 
 /* Specific to index page desktop  */
 
@@ -98,13 +260,11 @@ you work on and the intended audience */
 
 #hero-text {
 	grid-column: 1/8;
-	/* Remove as content will dictate height */
 	height: 582px;
 }
 
 #hero-image {
 	grid-column: 8/-1;
-	/* Remove as content will dictate height */
 	height: 582px;
 }
 
@@ -120,25 +280,40 @@ you work on and the intended audience */
 
 #product1 {
 	grid-column: 1/5;
-	/* Remove as content will dictate height */
-	height: 507px;
+	padding: 10px;
+	/* height: 507px; */
+}
+
+#product1:hover{
+	background-color: #CCEBF3;
+	border-radius: 100%;
+}
+
+#product2:hover{
+	background-color: #CCEBF3;
+	border-radius: 100%;
+}
+
+#product3:hover{
+	background-color: #CCEBF3;
+	border-radius: 100%;
 }
 
 #product2 {
 	grid-column: 5/9;
-	/* Remove as content will dictate height */
-	height: 507px;
+	padding: 10px;
+	/* height: 507px; */
 }
 
 #product3 {
 	grid-column: 9/-1;
-	/* Remove as content will dictate height */
-	height: 507px;
+	padding: 10px;
+	/* height: 507px; */
 }
 
-.product-box {
+/* .product-box {
 	background-color: #ddd;
-}
+} */
 
 #about-con {
 	background-color: #ddd;
@@ -152,71 +327,89 @@ you work on and the intended audience */
 
 #about-text {
 	grid-column: 1/8;
-	/* Remove as content will dictate height */
 	height: 700px;
 }
 
 #about-image {
 	grid-column: 8/-1;
-	/* Remove as content will dictate height */
 	height: 700px;
 }
 
 #contact {
 	margin-top: 100px;
 	margin-bottom: 100px;
+	background: url(../assets/Asset\ 1.svg) no-repeat;
+
 }
 
 #contact-text {
 	grid-column: 1/8;
-	/* Remove as content will dictate height */
 	height: 700px;
 }
 
 #contact-form {
 	grid-column: 8/-1;
-	/* Remove as content will dictate height */
 	height: 700px;
+	background-color: #97d9e9;
 }
 
 /*Common page elements  */
 
-#footer-con {
+footer {
 	background-color: #aaaaaa;
-	padding-top: 50px;
-	padding-bottom: 20px;
+	padding-top: 9px;
 }
 
 #footer-logo {
 	grid-column: 1/3;
-	/* Remove as content will dictate height */
 	height: 80px;
+	width: 80px;
 }
+
+.aboutus{
+	text-align: center;
+	padding-top: 35px;
+}
+
+.aboutus a{
+	padding-right: 30px;
+	font-size: large;
+}
+
 
 #footer-nav {
-	grid-column: 3/-1;
-	/* Remove as content will dictate height */
-	height: 80px;
-	margin-bottom: 100px;
+	grid-column: 3/10;
 }
 
-#footer-newsletter1 {
+#goup{
+	grid-column: 10/-1;
+	text-align: right;
+	
+}
+
+#goup a{
+	color: #4a5e5f;
+	text-decoration: none;
+	margin-top:10px ;
+	padding: 20px;
+	border: 1px solid gray;
+	border-radius: 17px;
+}
+
+/* #footer-newsletter1 {
 	grid-column: 1/5;
-	/* Remove as content will dictate height */
 	height: 80px;
 }
 
 #footer-newsletter2 {
 	grid-column: 5/7;
-	/* Remove as content will dictate height */
 	height: 80px;
 }
 
 #footer-social {
 	grid-column: 11/-1;
-	/* Remove as content will dictate height */
 	height: 80px;
-}
+} */
 
 
 
@@ -224,15 +417,21 @@ you work on and the intended audience */
 
 #gallery-hero-con {
 	background-color: #aaaaaa;
-	background: url("https://via.placeholder.com/1920x580");
+	background: url("../images/gallary-hero.png");
 	height: 580px;
 }
 
 #gallery-text {
 	grid-column: 1/9;
-	/* Remove as content will dictate height */
 	height: 200px;
 	margin-top: 100px;
+}
+
+#gallery-text a{
+	color: #97D9E9;
+	font-size: 50px;
+	text-align: center;
+	margin: 0;
 }
 
 #gallery-controls {
@@ -242,6 +441,24 @@ you work on and the intended audience */
 	justify-content: center;
 	align-items: center;
 }
+
+.laptopname{
+	font-size: x-large;
+	text-align: center;
+	color: #4a5e5f;
+
+}
+
+.price {
+	color: #4a5e5f;
+	font-size: large;
+	text-align: center;
+	margin: 25px;
+	padding: 5px;
+	border: #aaaaaa solid;
+	border-radius: 10px;
+}
+
 
 .dot {
 	background-color: #dddddd;
@@ -257,9 +474,9 @@ you work on and the intended audience */
   }
 
 .gallery-box {
-	background-color: #ddd;
+	background-color: #cbecf4;
 	grid-column: span 4 / span 4;
-	/* Remove as content will dictate height */
 	height: 507px;
 	margin-bottom: 20px;
+	text-decoration: none;
 }
