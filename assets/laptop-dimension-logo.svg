@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 656.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #6f3c97;
+      }
+
+      .cls-3 {
+        fill: #ccebf3;
+      }
+
+      .cls-4 {
+        fill: #252159;
+      }
+
+      .cls-5 {
+        fill: #231f20;
+        font-size: 30px;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-family: Bahnschrift-BoldSemiCondensed, Bahnschrift;
+        font-variation-settings: 'wght' 700, 'wdth' 87;
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        fill: #97d9e9;
+      }
+
+      .cls-6, .cls-7 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-size: 20px;
+      }
+
+      .cls-6, .cls-11, .cls-8 {
+        fill: #0578b7;
+      }
+
+      .cls-12 {
+        fill: #99d5c6;
+      }
+
+      .cls-13 {
+        fill: #654a9e;
+      }
+
+      .cls-7, .cls-9, .cls-14 {
+        fill: #5f63ad;
+      }
+
+      .cls-15 {
+        fill: #0db4d7;
+      }
+
+      .cls-16 {
+        fill: #4fa8de;
+      }
+
+      .cls-17 {
+        fill: #201e5a;
+      }
+
+      .cls-18 {
+        fill: #77cdd3;
+      }
+
+      .cls-19 {
+        fill: #49bfe4;
+      }
+
+      .cls-20 {
+        fill: #8ad1cc;
+      }
+
+      .cls-21 {
+        fill: #60c9db;
+      }
+
+      .cls-22 {
+        fill: #6f3e98;
+      }
+
+      .cls-23 {
+        letter-spacing: .03em;
+      }
+
+      .cls-24 {
+        fill: #588fcb;
+      }
+
+      .cls-25 {
+        letter-spacing: .04em;
+      }
+    </style>
+  </defs>
+  <text/>
+  <rect class="cls-2" x="236.02" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-13" x="267.67" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-14" x="299.32" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-24" x="330.97" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-16" x="362.62" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-19" x="394.27" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-21" x="425.92" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-18" x="457.57" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-20" x="489.21" y="20.45" width="31.65" height="99.68"/>
+  <rect class="cls-12" x="520.86" y="20.45" width="31.65" height="99.68"/>
+  <g>
+    <g>
+      <path class="cls-22" d="M25.91,106.83L43.83,35.84h12.7l-17.92,71h-12.7Zm5.42,0l3.09-12.26h33.59l-3.09,12.26H31.33Z"/>
+      <path class="cls-22" d="M66.4,106.83l17.92-71h12.7l-17.92,71h-12.7Zm7.37,0l3.09-12.26h13.04c3.03,0,5.56-.79,7.6-2.37,2.04-1.58,3.42-3.77,4.12-6.57l7.22-28.61c.71-2.83,.45-5.03-.8-6.59-1.25-1.56-3.39-2.34-6.42-2.34h-13.04l3.09-12.26h13.48c7.03,0,12.01,1.81,14.94,5.42,2.93,3.61,3.57,8.69,1.92,15.23l-7.49,29.69c-1.06,4.2-2.82,7.85-5.27,10.94-2.46,3.09-5.53,5.49-9.23,7.18-3.7,1.69-7.97,2.54-12.82,2.54h-13.43Z"/>
+    </g>
+    <text class="cls-7" transform="translate(12.08 132.4)"><tspan x="0" y="0">Laptop Dimension</tspan></text>
+    <text class="cls-9" transform="translate(31.15 42.18) rotate(-48.7) scale(1.02 1)"><tspan x="0" y="0">c</tspan></text>
+    <text class="cls-9" transform="translate(37 35.47) rotate(-40.26) scale(1.02 1)"><tspan x="0" y="0">h</tspan></text>
+    <text class="cls-9" transform="translate(44.59 29.07) rotate(-31.64) scale(1.02 1)"><tspan x="0" y="0">o</tspan></text>
+    <text class="cls-9" transform="translate(52.59 24.14) rotate(-23.25) scale(1.02 1)"><tspan x="0" y="0">o</tspan></text>
+    <text class="cls-9" transform="translate(61.26 20.45) rotate(-15.19) scale(1.02 1)"><tspan x="0" y="0">s</tspan></text>
+    <text class="cls-9" transform="translate(69.58 18.16) rotate(-7.16) scale(1.02 1)"><tspan x="0" y="0">e</tspan></text>
+    <text class="cls-9" transform="translate(79.08 17.11) rotate(-.91) scale(1.02 1)"><tspan x="0" y="0"> </tspan></text>
+    <text class="cls-9" transform="translate(84.05 17.02) rotate(4.02) scale(1.02 1)"><tspan x="0" y="0">t</tspan></text>
+    <text class="cls-9" transform="translate(90.13 17.33) rotate(11.11) scale(1.02 1)"><tspan x="0" y="0">h</tspan></text>
+    <text class="cls-9" transform="translate(99.85 19.26) rotate(19.73) scale(1.02 1)"><tspan x="0" y="0">e</tspan></text>
+    <text class="cls-9" transform="translate(108.8 22.61) rotate(26.19) scale(1.02 1)"><tspan x="0" y="0"> </tspan></text>
+    <text class="cls-9" transform="translate(113.26 24.66) rotate(32.73) scale(1.02 1)"><tspan x="0" y="0">b</tspan></text>
+    <text class="cls-9" transform="translate(121.34 29.86) rotate(41.22) scale(1.02 1)"><tspan x="0" y="0">e</tspan></text>
+    <text class="cls-9" transform="translate(128.44 36.13) rotate(49.34) scale(1.02 1)"><tspan x="0" y="0">s</tspan></text>
+    <text class="cls-9" transform="translate(134.05 42.78) rotate(56.04) scale(1.02 1)"><tspan x="0" y="0">t</tspan></text>
+    <text class="cls-9" transform="translate(137.47 47.93) rotate(61.13) scale(1.02 1)"><tspan x="0" y="0"> </tspan></text>
+  </g>
+  <g>
+    <polygon class="cls-4" points="41.06 229.9 55.88 171.16 43.19 171.16 25.27 242.16 30.69 242.16 37.97 242.16 64.28 242.16 67.38 229.9 41.06 229.9"/>
+    <path class="cls-4" d="M119.46,176.58c-2.93-3.61-7.91-5.42-14.94-5.42h-20.85l-17.92,71h20.8c4.85,0,9.12-.85,12.82-2.54,3.7-1.69,6.78-4.08,9.23-7.18,2.46-3.09,4.22-6.74,5.27-10.94l7.49-29.69c1.65-6.54,1.01-11.62-1.92-15.23Zm-11.26,15.77l-7.22,28.61c-.71,2.8-2.08,4.99-4.12,6.57-2.04,1.58-4.58,2.37-7.6,2.37h-7.71l11.73-46.48h7.71c3.03,0,5.17,.78,6.42,2.34,1.25,1.56,1.52,3.76,.8,6.59Z"/>
+  </g>
+  <text class="cls-6" transform="translate(11.44 267.72)"><tspan x="0" y="0">Laptop Dimension</tspan></text>
+  <g>
+    <path class="cls-22" d="M24.2,386.04l17.92-71h12.7l-17.92,71h-12.7Zm5.42,0l3.09-12.26h33.59l-3.09,12.26H29.62Z"/>
+    <path class="cls-22" d="M64.69,386.04l17.92-71h12.7l-17.92,71h-12.7Zm7.37,0l3.09-12.26h13.04c3.03,0,5.56-.79,7.6-2.37,2.04-1.58,3.42-3.77,4.12-6.57l7.22-28.61c.71-2.83,.45-5.03-.8-6.59-1.25-1.56-3.39-2.34-6.42-2.34h-13.04l3.09-12.26h13.48c7.03,0,12.01,1.81,14.94,5.42,2.93,3.61,3.57,8.69,1.92,15.23l-7.49,29.69c-1.06,4.2-2.82,7.85-5.27,10.94-2.46,3.09-5.53,5.49-9.23,7.18-3.7,1.69-7.97,2.54-12.82,2.54h-13.43Z"/>
+  </g>
+  <text class="cls-7" transform="translate(10.38 411.61)"><tspan x="0" y="0">Laptop Dimension</tspan></text>
+  <rect class="cls-17" x="236.02" y="156.74" width="63.3" height="106.19"/>
+  <rect class="cls-11" x="299.32" y="156.74" width="63.3" height="106.19"/>
+  <rect class="cls-15" x="362.62" y="156.74" width="63.3" height="106.19"/>
+  <rect class="cls-10" x="425.92" y="156.74" width="63.3" height="106.19"/>
+  <rect class="cls-3" x="489.21" y="156.74" width="63.3" height="106.19"/>
+  <text class="cls-8" transform="translate(26.14 177.27) rotate(-48.7) scale(1.02 1)"><tspan x="0" y="0">c</tspan></text>
+  <text class="cls-8" transform="translate(31.99 170.55) rotate(-40.26) scale(1.02 1)"><tspan x="0" y="0">h</tspan></text>
+  <text class="cls-8" transform="translate(39.59 164.15) rotate(-31.64) scale(1.02 1)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-8" transform="translate(47.58 159.23) rotate(-23.25) scale(1.02 1)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-8" transform="translate(56.25 155.53) rotate(-15.19) scale(1.02 1)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-8" transform="translate(64.58 153.25) rotate(-7.16) scale(1.02 1)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-8" transform="translate(74.08 152.2) rotate(-.91) scale(1.02 1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-8" transform="translate(79.05 152.1) rotate(4.02) scale(1.02 1)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-8" transform="translate(85.12 152.41) rotate(11.11) scale(1.02 1)"><tspan x="0" y="0">h</tspan></text>
+  <text class="cls-8" transform="translate(94.85 154.34) rotate(19.73) scale(1.02 1)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-8" transform="translate(103.79 157.7) rotate(26.19) scale(1.02 1)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-8" transform="translate(108.25 159.75) rotate(32.73) scale(1.02 1)"><tspan x="0" y="0">b</tspan></text>
+  <text class="cls-8" transform="translate(116.34 164.95) rotate(41.22) scale(1.02 1)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-8" transform="translate(123.44 171.21) rotate(49.34) scale(1.02 1)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-8" transform="translate(129.04 177.87) rotate(56.04) scale(1.02 1)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-8" transform="translate(132.47 183.02) rotate(61.13) scale(1.02 1)"><tspan x="0" y="0"> </tspan></text>
+  <g>
+    <g>
+      <polygon class="cls-4" points="273.29 611.05 288.11 552.31 275.41 552.31 257.5 623.31 262.92 623.31 270.19 623.31 296.51 623.31 299.6 611.05 273.29 611.05"/>
+      <path class="cls-4" d="M351.69,557.73c-2.93-3.61-7.91-5.42-14.94-5.42h-20.85l-17.92,71h20.8c4.85,0,9.12-.85,12.82-2.54,3.7-1.69,6.78-4.08,9.23-7.18,2.46-3.09,4.22-6.74,5.27-10.94l7.49-29.69c1.65-6.54,1.01-11.62-1.92-15.23Zm-11.26,15.77l-7.22,28.61c-.71,2.8-2.08,4.99-4.12,6.57-2.04,1.58-4.58,2.37-7.6,2.37h-7.71l11.73-46.48h7.71c3.03,0,5.17,.78,6.42,2.34,1.25,1.56,1.52,3.76,.8,6.59Z"/>
+    </g>
+    <text class="cls-6" transform="translate(243.67 648.87)"><tspan x="0" y="0">Laptop Dimension</tspan></text>
+  </g>
+  <line class="cls-1" y1="464.78" x2="612" y2="464.78"/>
+  <text class="cls-5" transform="translate(266.56 492.2)"><tspan class="cls-25" x="0" y="0">F</tspan><tspan class="cls-23" x="15.11" y="0">inal</tspan></text>
+  <line class="cls-1" y1="504.8" x2="612" y2="504.8"/>
+</svg>
