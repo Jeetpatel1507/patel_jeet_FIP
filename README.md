@@ -11,7 +11,7 @@ TODO: create a 4 page website with html and css
 
 ## Installation
 
-download the files and oprn index.html or index_mobile.html or mobile experience 
+download the files and oprn index.html or index_mobile.html for mobile experience 
 
 ## Contributing
 
