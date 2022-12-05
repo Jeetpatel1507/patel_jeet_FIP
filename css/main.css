@@ -1,7 +1,4 @@
 @charset "UTF-8";
-/* CSS Document */
-
-/*Remove this rule on your HTML elements as you start to fill them with content*/
 
 .box-color {
 	color: #fff;
@@ -12,45 +9,28 @@
 
 /*basic reset*/
 
-/*browsers have built in values for elements so we'll reset a few things to zero, you can add to this or remove items as needed*/
-
 div,p,body,header,footer,section,article,nav { 
 	margin: 0; 
 	padding: 0; 
 }	
 
 img { 
-	border: none; /*Remove border if image is a link*/
+	border: none;
 	margin: 0; 
 	padding: 0; 
 }
 
-/*html selectors*/
-
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	/* font-size: 12px; */
 }
-
-/* Remove underlines from links */
 
 a {
 	text-decoration: none;
 }
 
-/*hide elements from browser but show for doc outline*/
-
 .hidden {
 	display: none;
 }
-
-
-/*Common page elements  */
-
-/*This is essentially a box that we place the whole site in.  
-We center the box using margin 0 auto and give it a fixed width of 1920px.
-1920px would fit a large monitor or tv. Sizes will vary depending on the projects
-you work on and the intended audience */
 
 #container {
 	margin: 0 auto;
@@ -78,8 +58,6 @@ you work on and the intended audience */
 	height: 80px;
 	width: 80px;
 }
-
-/* my stuff */
 
 
 #main-nav {
@@ -244,14 +222,6 @@ button {
   }
 
 
-
-
-
-
-
-/* my stuff  ends here */
-
-
 /* Specific to index page desktop  */
 
 #hero {
@@ -281,7 +251,6 @@ button {
 #product1 {
 	grid-column: 1/5;
 	padding: 10px;
-	/* height: 507px; */
 }
 
 #product1:hover{
@@ -302,19 +271,12 @@ button {
 #product2 {
 	grid-column: 5/9;
 	padding: 10px;
-	/* height: 507px; */
 }
 
 #product3 {
 	grid-column: 9/-1;
 	padding: 10px;
-	/* height: 507px; */
 }
-
-/* .product-box {
-	background-color: #ddd;
-} */
-
 #about-con {
 	background-color: #ddd;
 	padding-top: 10px;
@@ -396,25 +358,6 @@ footer {
 	border-radius: 17px;
 }
 
-/* #footer-newsletter1 {
-	grid-column: 1/5;
-	height: 80px;
-}
-
-#footer-newsletter2 {
-	grid-column: 5/7;
-	height: 80px;
-}
-
-#footer-social {
-	grid-column: 11/-1;
-	height: 80px;
-} */
-
-
-
-/* gallery page */
-
 #gallery-hero-con {
 	background-color: #aaaaaa;
 	background: url("../images/gallary-hero.png");
@@ -432,14 +375,6 @@ footer {
 	font-size: 50px;
 	text-align: center;
 	margin: 0;
-}
-
-#gallery-controls {
-	margin-top: 200px;
-	grid-column: 6/8;
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 
 .laptopname{
